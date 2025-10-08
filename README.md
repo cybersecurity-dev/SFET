@@ -55,3 +55,14 @@ The analyzer supports multiple file formats including:
 - Scripts (.js, .hta)
 - And more
 
+##
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/SFET/graphs/contributors)!
+
+[🔼 Back to top](#sfet--static-feature-extraction-tool-for-potentially-malicious-os-files)
