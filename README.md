@@ -11,11 +11,19 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+## 📖 Contents
+- [My Awesome Lists](#my-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+
+
+### Install
+
 <details>
 
 <summary>Install required tools on Linux</summary>
 
-### For Ubuntu 18.04, 20.04, 22.04
+#### For Ubuntu 18.04, 20.04, 22.04
 
 ```bash
 sudo apt-get update
@@ -33,13 +41,13 @@ sudo apt-get update
 
 <summary>Install required python libs</summary>
 
-### pip install
+#### pip install
 ```bash
 pip install -r requirements.txt
 python3 setup.py install
 ```
 
-### conda install
+#### conda install
 ```bash
 conda config --add channels conda-forge
 conda install --file requirements_conda.txt
@@ -63,7 +71,11 @@ The analyzer supports multiple file formats including:
 - Scripts (.js, .hta)
 - And more
 
+
 ##
+
+### My Awesome Lists
+You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
 
