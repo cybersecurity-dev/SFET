@@ -1,4 +1,8 @@
-# **SFET** | _Static Feature Extraction Tool_ for Potentially Malicious OS Files
+<div align="center">
+
+# **`SFET`** | _Static Feature Extraction Tool_ for Potentially Malicious OS Files
+</div>
+
 [![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![built-with-science](https://forthebadge.com/images/badges/built-with-science.svg)](https://cyberthreatdefence.com/)
 [![open-source](https://forthebadge.com/images/badges/open-source.svg)](https://cyberthreatdefence.com/)
